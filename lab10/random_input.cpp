@@ -39,7 +39,9 @@ int main()
     }
     cout << endl;
 
-    cout << "Кількість від'ємних елементів: " << k << endl;
+    cout << "Кількість від'ємних елементів: " << k << endl;
+
     system("pause");
     return 0;
-}
+}
+// restored version
